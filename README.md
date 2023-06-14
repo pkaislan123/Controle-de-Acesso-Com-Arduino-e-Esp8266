@@ -8,4 +8,4 @@ O Controlador consite em um leitor RFID, um teclado matricial 4x4, um display LC
 
 A Api faz diversas tratativas quando ao cartão lido ou senha digitada no teclado, e então libera ou não acesso.
 
-<iframe width="640" height="394" src="https://www.youtube.com/embed/nXhs9-V_dKY" title="Demonstração Controlador de Acesso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Assista à demonstração do Controlador de Acesso](https://www.youtube.com/watch?v=nXhs9-V_dKY)
